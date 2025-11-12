@@ -1,7 +1,7 @@
 {
     "name": "Sama Gamal El-din",
     "short": "I'm a creative web and game developer",
-    "profile": "./Profile/sss.jpg",
+    "profile": "./Profile/sss.png",
     "linkedin": "https://linkedin.com/in/sama-gamal-el-din-a40260282",
     "github": "https://github.com/Sama-Gamal-Eldin",
     "facebook": "",
@@ -281,4 +281,5 @@
             ]
         }
     ]
+
 }
