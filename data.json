@@ -1,0 +1,284 @@
+{
+    "name": "Sama Gamal El-din",
+    "short": "I'm a creative web and game developer",
+    "profile": "./Profile/sss.jpg",
+    "linkedin": "https://linkedin.com/in/sama-gamal-el-din-a40260282",
+    "github": "https://github.com/Sama-Gamal-Eldin",
+    "facebook": "",
+    "instagram": "",
+    "twitter": "",
+    "pinterest": "",
+    "sub": [
+        {
+            "title": "Summary",
+            "type": "Topic-Text",
+            "content": "Motivated student with strong technical and soft skills. Skilled in web development (HTML, CSS, PHP), data analysis, and digital marketing tools. Excellent public speaking, presentation, and time management abilities. A proactive team player with leadership experience and a passion for continuous growth and learning."
+        },
+        {
+            "title": "",
+            "style": "background:linear-gradient(to left, #005f3d, #005f3d 50%, #f5e8c6 50%)",
+            "type": "ImageFull",
+            "content": "./images/1739562719710.jpeg"
+        },
+        {
+            "title": "Personal Information",
+            "type": "Points",
+            "color": "var(--cyan)",
+            "content": {
+                "email :": "samagamaleldin22@gmail.com",
+                "phone :": "(+20) 01114300436",
+                "Date of birth :": "15 Apr 2008",
+                "Gender :": "Female",
+                "Nationality :": "Egyptian"
+            }
+        },
+        {
+            "title": "Experience",
+            "type": "Block",
+            "style": "position:relative;background:unset;overflow:hidden",
+            "content": [
+                {
+                    "title": "Egyptain Food Bank",
+                    "time": "Jun 2022 - Present",
+                    "logo": "./experiecne/EFB.jpeg",
+                    "text": "Food Relief Volunteer\n- Assisted in preparing, packaging, and cooking meals for distribution to families in need.\n - Organization and sorted food supplies, ensuring efficient packing and accurate distribution.\n - Adjusted to increase workloads on high-demand days, staying until all tasks were completed efficiently."
+                },
+                {
+                    "title": "Digital Egypt Cubs Initiative (DECI)",
+                    "time": "Dec 2023 - Oct 2024",
+                    "logo": "./experiecne/DECI.jpeg",
+                    "text": "Participation & Project Champion\n- Gained hands-on experience in AI, wed development, cybersecurity, data analysis, embedded system, and digital logic.\n- Created two impactful projects:\n- Calm Roots: a mental health awareness website, developed by a team of 5.\n     + Role: Leader, Presenter, Researcher, and Manager. Led the team in designing the website, conducting research in mental health, and        presenting the project. Managed the project timeline and tasks.\n- The Final Dare: a python-based text adventure game.\n- Ranked top champion in the physical sessions and among the top 3 participants online.\n- Developed critical skills in leadership, teamwork, public speaking, and project management.\n- Met course goals and achieved good marks with diligent completion of assignment."
+                },
+                {
+                    "title": "IBM & Digital Egypt Club Initiative (DECI)",
+                    "time": "Sep 2024 - Sep 2024",
+                    "logo": "./experiecne/IBM.jpeg",
+                    "text": "Participant & Presenter\n- Engaged in an intensive AI-focused bootcamp covering machine learning, ethical AI, and real world applications.\n- Applied design thinking to develop an AI-powered solution tackling global challenges.\n- Worked closely with a diverse team to brainstorm, prototype, and refine a project aligned with the Unsustainable Development Goals (SDGs).\n- Delivered a final presentation showcasing the projects impact and technical aspect of industry experts.\n- Strengthened problem-solving, teamwork, and presentation skills through interactive sessions and mentorship."
+                },
+                {
+                    "title": "Girls in Marketing",
+                    "time": "2024",
+                    "logo": "./experiecne/girls_in_marketing.jpeg",
+                    "text": "Marketing intern\n- Gained foundational knowledge in SEO, SERP, digital marketing strategy, and content creation.\n- Explored tools like Semrush for keyword research and analytics.\n- Learned Adobe Express for graphic design and content collaboration.\n- Developed an understanding of social media marketing, branding, and audience engagement."
+                },
+                {
+                    "title": "Omar Ibn Alkhattab School",
+                    "time": "Sep 2023 - Jan 2024",
+                    "logo": "./experiecne/Omar_Ibn_Alkatab.png",
+                    "text": "School Library Volunteer\n- Created visually appealing book displays, promoting in-demand new ranges and collections.\n- Assisted in organized and categorized books to ensure easy accessibility for students and staff.\n- Helped check inventory, identify missing or misplaced books, and maintain accurate records.\n- Supported staff in creating an efficiently and orderly library environment."
+                },
+                {
+                    "title": "The Egyptian Cure Bank",
+                    "time": "Jan 2023 - Jan 2024",
+                    "logo": "./experiecne/ECB.jpeg",
+                    "text": "Medical Supply Volunteer\n- Assisted in packaging medical supplies for distribution to those in need, ensuring careful handling to maintain integrity.\n- Worked collaboratively to organize resources and ensure timely and efficient delivery to individuals in need of medical support.\n- Contributed to community outreach efforts, helping to raise awareness about the organization’s mission and impact."
+                },
+                {
+                    "title": "Omar Ibn Alkattab School",
+                    "time": "Nov 2023 - Nov 2023",
+                    "logo": "./experiecne/Omar_Ibn_Alkatab.png",
+                    "text": "Short Story Writing Competition – Participant\n- Participated in a short story competition with the theme of struggles faced by people with dwarfism.\n- Developed a narrative about a girl’s challenged living with this condition, showcasing creativity. Storytelling, and empathy."
+                },
+                {
+                    "title": "The Egyptian Cure Bank",
+                    "time": "Jul 2023 - Jul 2023",
+                    "logo": "./experiecne/ECB.jpeg",
+                    "text": "Marketing and Advertising Volunteer\n- Assisted in promoting campaigns and initiatives to raise awareness about the organization’s mission.\n- Contributed to marketing and advertising efforts, working collaboratively with a team.\n- Participated in on-site activities, which were recorded and used for promotional materials.\n- Developed hands-on experience in marketing communication and public engagement."
+                },
+                {
+                    "title": "Atamiya School",
+                    "time": "Jan 2021 - Jan 2021",
+                    "logo": "./experiecne/mistery_education.jpg",
+                    "text": "Creative Art Volunteer\n- Collaborated with a team to design and plan murals that enhanced the visual appeal of the school environment.\n- Contributed to painting and decorating school walls with colourful and meaningful artwork.\n- Helped select materials and color schemes to ensure both the longevity and aesthetic quality of the murals."
+                },
+                {
+                    "title": "Atamiya School",
+                    "time": "Jan 2019 - Jan 2020",
+                    "logo": "./experiecne/mistery_education.jpg",
+                    "text": "School Snack Volunteer\n- Volunteered in managing the school snack service, ensuring a clean and organized space for students and staff.\n- Assisted in distributing snacks and beverages efficiently, maintaining high standards of hygiene and safety.\n- Supported staff and volunteers in creating a positive and welcoming environment for the school community."
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "color": "var(--Peach)",
+            "type": "Range-Title",
+            "content": {
+                "Programming and Development": {
+                    "Python": 50,
+                    "HTML5": 90,
+                    "CSS": 98,
+                    "JavaScript": 30,
+                    "PHP": 99
+                },
+                "Data and Analytics": {
+                    "SQL": 60,
+                    "Microsoft Excel": 100
+                },
+                "AI and Emerging Tech": {
+                    "Artificial Intellegence": 40,
+                    "Blockchain": 100,
+                    "Cloud Computing": 30,
+                    "Internet Of Things (IOT)": 60
+                },
+                "Cybersecurity and IT": {
+                    "Cybersecurity Fundemental": 100,
+                    "Digital Logic": 80,
+                    "Digital Circut Design": 100
+                },
+                "Digital Marketing": {
+                    "Search Engine Optimization (SEO)": 50,
+                    "Online Strategy Development": 40,
+                    "E-marketing Basics": 100
+                },
+                "Business Tools": {
+                    "Google Analytics": 40,
+                    "Canva": 100,
+                    "Adobe Express": 90,
+                    "Semursh": 100
+                },
+                "Presentation and Content Creation": {
+                    "Microsoft PowerPoint": 100,
+                    "Google Slides": 90,
+                    "Public Speaking": 100
+                },
+                "Soft Skills": {
+                    "Leadership": 100,
+                    "Teamwork": 90,
+                    "Time Management": 80,
+                    "Document Management": 100,
+                    "Report Writing": 70
+                }
+            }
+        },
+        {
+            "title": "",
+            "style": "background:#363535",
+            "type": "ImageFull",
+            "content": "./images/Black Simple Elegant Personal LinkedIn Banner.png"
+        },
+        {
+            "title": "Education",
+            "color": "var(--cyan)",
+            "type": "Block",
+            "content": [
+                {
+                    "title": "Nanodegree Graduate: AI and Web Development ",
+                    "time": "2024",
+                    "logo": "./experiecne/udacity.png",
+                    "text": "- Gained proficiency in Python, HTML5, and CSS for web development and digital art creation.\n- Acquired foundational knowledge in cybersecurity, data analysis, and embedded systems.\n- Explored AI, Digital Logic, and Digital Circuit Design.\n- Gained hands-on experience in IoT, Project Management, and fostering creativity, innovation, and leadership skills."
+                },
+                {
+                    "title": "Microsoft Excel Certificates",
+                    "time": "2024",
+                    "logo": "./experiecne/coursera.png",
+                    "text": "Coursera\n- Learned to create and navigate Excel spreadsheets for effective data entry and organization.\n- Gained proficiency in creating basic formulas to analyse data and perform calculations.\n- Developed skills in formatting spreadsheets for better readability and presentation.\n- Acquired foundational skills in Excel to support data analysis tasks and create simple reports."
+                },
+                {
+                    "title": "Fundamentals of Digital Marketing Certificate",
+                    "time": "2024",
+                    "logo": "./experiecne/google.png",
+                    "text": "Google\n- Gained a foundational understanding of digital marketing strategies, tools, and best practices.\n- Learned how to develop an online marketing strategy, focusing on awareness, consideration, execution, and maintenance phases.\n- Acquired skills in Search Engine Optimization (SEO) to improve online visibility and ranking.\n- Gained insight into digital tools for business growth, including social media, content marketing, and paid advertisement.\n- Prepared for a career in digital marketing by exploring job roles and how to build a strong online professional presence."
+                },
+                {
+                    "title": "HackerRank Certificate for Python",
+                    "time": "2024",
+                    "logo": "./experiecne/HackerRank.png",
+                    "text": "HackerRank\n- Developed a strong foundation of Python programing, focusing on basic syntax and concepts.\n- Learned key Python features such as variables, loops, conditionals, and functions.\n- Gained hands-on experience solving problems using Python, including data manipulation and algorithmic thinking.\n- Enhanced problem-solving skills through coding challenges and practical exercises."
+                },
+                {
+                    "title": "IBM Certificate – Explore Emerging Tech",
+                    "time": "2024",
+                    "logo": "./experiecne/IBM.jpeg",
+                    "text": "IBM\n- Gained foundational knowledge in emerging technologies such as Artificial intelligence (AI), Blockchain, and cloud computing.\n- Explored key concepts in cybersecurity, data analysis, and data science to understand their impact on modern industries.\n- Learned about internet of things (IoT) and how connected devices are transforming technology landscapes.\n- Developed an understanding of current trends and future implications in the tech industry through hands-on learning and case studies."
+                },
+                {
+                    "title": "English Speaking Certificate",
+                    "time": "2024",
+                    "logo": "./experiecne/IBM.jpeg",
+                    "text": "BLC Languages Academy\n- Enhanced spoken English proficiency with a focus on fluency, pronunciation, and vocabulary.\n- Developed skills to engage in discussions on various topics, including personal, academic, and professional subjects.\n- Improved listening comprehension and conversational abilities through practice exercise and real-life scenarios.\n- Gained confidence in public speaking and group discussions, enhancing communications effectiveness in diverse settings."
+                },
+                {
+                    "title": "Canva Design Achievement Badges",
+                    "time": "2024",
+                    "logo": "./experiecne/canva.png",
+                    "text": "Canva\n- Earned multiple design milestone badges from Canva, recognizing creativity, design skills, and proficiency in visual communication.\n- Demonstrated expertise in color theory, typography, and layout through completed design projects.\n- Showcased attention to details and ability to craft visual engaging content."
+                },
+                {
+                    "title": "ARC 401 English Course Badge",
+                    "time": "2023",
+                    "logo": "./experiecne/ARC.jpeg",
+                    "text": "American University in Cairo (AUC)\n- Completed a comprehensive course focused on essential university preparation skills.\n- Gained proficiency in effective presentation and interview techniques, including crafting a personal statement.\n- Acquired knowledge on financial aid, scholarships, and strategies for securing them.\n- Learned critical tools for success, with a focus on time management, communication, and academic writing.\n- Enhanced understanding of the college interview process and how to present oneself confidently."
+                }
+            ]
+        },
+        {
+            "title": "Languages",
+            "type": "Header-Points",
+            "content": {
+                "Arabic": {
+                    "Arabic Listening :": "C2 - Proficient User",
+                    "Arabic Reading :": "C2 - Proficient User",
+                    "Arabic Spoken Interaction :": "C2 - Proficient User",
+                    "Arabic Spoken Production :": "C2 - Proficient User",
+                    "Arabic Writing :": "C2 - Proficient User"
+                },
+                "English": {
+                    "English Listening :": "B1 - Independant User",
+                    "English Reading :": "B1 - Independant User",
+                    "English Spoken Interaction :": "B1 - Independant User",
+                    "English Spoken Production :": "B1 - Independant User",
+                    "English Writing :": "B1 - Independant User"
+                }
+            }
+        },
+        {
+            "title": "Project",
+            "type": "Rect-Detail",
+            "content": [
+                {
+                    "title": "Calm Roots",
+                    "time": "Jul 2024 - Aug 2024",
+                    "text": "Associated with Digital Egypt Cubs Initiative 'DECI' Associated with Digital Egypt Cubs Initiative 'DECI' \n\n CalmRoots is a project reflecting my passion for mental health and technology. Designed to enhance mental well-being and promote healthy habits, this platform offers valuable resources and tools. With contributions from a dedicated team, we’ve created a space that supports inner peace and resilience through articles, practical tips, and community engagement. This project showcases our collective effort to use technology for positive impact and mental health support.CalmRoots is a project reflecting my passion for mental health and technology. Designed to enhance mental well-being and promote healthy habits, this platform offers valuable resources and tools. With contributions from a dedicated team, we’ve created a space that supports inner peace and resilience through articles, practical tips, and community engagement. This project showcases our collective effort to use technology for positive impact and mental health support. \n\n\n\nSkills: Team Leadership · Teamwork · Presentation Skills · Graphic Design · Creative Problem Solving · Programming · Web Development · Project Management · Design Thinking · HTML5 · Prototyping · Communication · Information Research and Analysis.",
+                    "image": "./Project/Screenshot 2025-04-15 224459.png",
+                    "link": "https://sama-gamal-eldin.github.io/CalmRoots/pages/"
+                },
+                {
+                    "title": "HTML Table",
+                    "time": "1 day",
+                    "text": "If you know HTML table you know how hard this is.",
+                    "image": "./Project/htmltable2.png",
+                    "link": "https://sama-gamal-eldin.github.io/HTMLTable/"
+                },
+                {
+                    "title": "Link Tree",
+                    "time": "1 Day",
+                    "text": "A Link Tree For A Client",
+                    "image": "./Project/Screenshot 2025-04-15 231616.png",
+                    "link": "https://sama-gamal-eldin.github.io/LinkTree/"
+                },
+                {
+                    "title": "Gaming Website",
+                    "time": "Sep 2024 - Present",
+                    "text": "This Gaming Hub is an interactive website designed to bring gamers together, offering a variety of gaming-related content, forums, and resources. Built with HTML, CSS, PHP, and SQL, this platform allows users to create accounts, engage in discussions, and track their gaming progress. The site features a dynamic database for user management, game reviews, and recommendations, all powered by SQL for efficient data handling. With a focus on user experience, the site integrates PHP for seamless functionality, including user sessions and data validation, ensuring secure and personalized interactions.This Gaming Hub is an interactive website designed to bring gamers together, offering a variety of gaming-related content, forums, and resources. Built with HTML, CSS, PHP, and SQL, this platform allows users to create accounts, engage in discussions, and track their gaming progress. The site features a dynamic database for user management, game reviews, and recommendations, all powered by SQL for efficient data handling. With a focus on user experience, the site integrates PHP for seamless functionality, including user sessions and data validation, ensuring secure and personalized interactions.\n\n\nSkills: PHP · HTML5 · Cascading Style Sheets (CSS) · MySQL",
+                    "image": "./Project/main page .jpg",
+                    "link": ""
+                },
+                {
+                    "title": "Snake Game",
+                    "time": "2 Days",
+                    "text": "I originally built a classic Snake game using Python and the turtle library, leveraging my expertise in Python development. However, to make it more accessible on the web and refine my JavaScript skills, I rewrote the game using JavaScript and the Canvas API. This transition allowed for seamless rendering, improved interactivity, and the ability to share it effortlessly online.\nTo enhance the game experience, I incorporated:\n- Smooth animations with optimized frame rates for fluid gameplay.\n- Dynamic food mechanics, where different food types offer unique effects—speed boosts, size reductions, or bonus points.\n- Customizable themes, allowing players to switch colors, grid styles, or even add a retro pixel aesthetic.\n- Responsive controls, supporting keyboard, touch gestures, and gamepad input for versatility.\n- Leaderboards, so players can track high scores, adding a competitive element.\n- Adaptive difficulty, where the snake's speed scales based on score or elapsed time.\n\nThis evolution from a simple Python-based game to an interactive, web-friendly JavaScript application reflects my growth in development and commitment to expanding my skill set. I’d love to keep refining it with additional features—maybe multiplayer support or AI-generated obstacles! 🚀",
+                    "image": "./Project/Screenshot 2025-04-15 231053.png",
+                    "link": "https://sama-gamal-eldin.github.io/Snakegame/"
+                },
+                {
+                    "title": "The Final Dare",
+                    "time": "Jul 2024 - Jul 2024",
+                    "text": "Associated with Digital Egypt Cubs Initiative 'DECI'\n\n\n 🎮 The Final Dare – A thrilling Python-powered text-based adventure game that challenges players to navigate a world full of unexpected twists, mysterious puzzles, and daring choices. Set in a dark and immersive narrative, the game offers players a unique journey where every decision shapes their fate. Using Python’s versatility, I developed this game to blend creativity with coding, creating an interactive experience that keeps players engaged and thinking on their feet. Whether it’s deciphering clues or outwitting adversaries, The Final Dare tests both wit and courage.🎮 The Final Dare – A thrilling Python-powered text-based adventure game that challenges players to navigate a world full of unexpected twists, mysterious puzzles, and daring choices. Set in a dark and immersive narrative, the game offers players a unique journey where every decision shapes their fate. Using Python’s versatility, I developed this game to blend creativity with coding, creating an interactive experience that keeps players engaged and thinking on their feet. Whether it’s deciphering clues or outwitting adversaries, The Final Dare tests both wit and courage.\n\n\nSkills: Debugging Code · Game Design · Python (Programming Language) · Storytelling · Algorithm Design · Creativity and Innovation",
+                    "image": "./Project/WhatsApp Image 2024-07-24 at 15.13.17_d880d930.jpg",
+                    "link": "https://sama-gamal-eldin.github.io/The_Final_Dare/"
+                }
+            ]
+        }
+    ]
+}
