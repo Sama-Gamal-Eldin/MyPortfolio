@@ -25,8 +25,8 @@
             "type": "Points",
             "color": "var(--cyan)",
             "content": {
-                "email :": "samagamaleldin22@gmail.com",
-                "phone :": "(+20) 01114300436",
+                "Email :": "samagamaleldin22@gmail.com",
+                "Phone :": "(+20) 01114300436",
                 "Date of birth :": "15 Apr 2008",
                 "Gender :": "Female",
                 "Nationality :": "Egyptian"
@@ -283,3 +283,4 @@
     ]
 
 }
+
